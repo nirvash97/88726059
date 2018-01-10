@@ -1,6 +1,6 @@
 {
-    "remotePath": "/home/BUU/59160273/88726059",
-    "host": "angsila.cs.buu.ac.th",
+    "remotePath": "/home/BUU/59160273/public_html/88726059",
+    "host": "angsila.informatics.buu.ac.th",
     "username": "59160273",
     "password": "asdf147852",
     "port": 22,
@@ -19,6 +19,7 @@
     "generatedFiles": {
         "uploadOnSave": true,
         "extensionsToInclude": [],
-        "path": "/home/BUU/59160273/88726059"
+        "path": "/home/BUU/59160273/public_html/88726059"
+        
     }
 }
