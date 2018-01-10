@@ -6,7 +6,7 @@
     "port": 22,
     "secure": false,
     "protocol": "sftp",
-    "uploadOnSave": false,
+    "uploadOnSave": true,
     "passive": false,
     "debug": false,
     "privateKeyPath": null,
@@ -20,6 +20,5 @@
         "uploadOnSave": true,
         "extensionsToInclude": [],
         "path": "/home/BUU/59160273/public_html/88726059"
-        
     }
 }
